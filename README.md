@@ -9,7 +9,7 @@ Este proyecto está enfocado en **UI/UX**, integración con **API REST** y manej
 
 ## 📸 Vista previa
 
-![ChatBot WinForms UI](https://raw.githubusercontent.com/oscar-developer/Chat-UI-Net4/master/Chat.png)
+![ChatBot WinForms UI](https://github.com/oscar-developer/Chat-UI-Net4/blob/master/Chat.png)
 
 > Interfaz con burbujas de chat (usuario / bot), timestamps, avatar y scroll automático.
 
