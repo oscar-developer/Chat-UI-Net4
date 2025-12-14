@@ -11,7 +11,7 @@ namespace chatBot
 {
     public partial class FormChatbot : Form
     {
-        string aMsnInicialBot = @"¡Hola! Soy [Nombre del Bot], tu asistente aquí."+Environment.NewLine+
+        string aMsnInicialBot = @"¡Hola! soy tu Bot, tu asistente aquí."+Environment.NewLine+
                             @"Estoy para ayudarte con [mencionar propósito principal: ej: responder preguntas, gestionar pedidos, brindar soporte, etc.]. "+
                             Environment.NewLine+ "¿En qué puedo asistirte hoy?";
         List<string> respuestasBot = new List<string>

@@ -117,13 +117,13 @@
             // laTitulo
             // 
             this.laTitulo.AutoSize = true;
-            this.laTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.laTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.laTitulo.ForeColor = System.Drawing.Color.White;
-            this.laTitulo.Location = new System.Drawing.Point(30, 22);
+            this.laTitulo.Location = new System.Drawing.Point(12, 18);
             this.laTitulo.Name = "laTitulo";
-            this.laTitulo.Size = new System.Drawing.Size(243, 16);
+            this.laTitulo.Size = new System.Drawing.Size(205, 18);
             this.laTitulo.TabIndex = 0;
-            this.laTitulo.Text = "Chat Bot (discpouesto a ayudarte)";
+            this.laTitulo.Text = "ChatBot – Asistente Virtual";
             // 
             // backgroundWorker1
             // 
@@ -142,7 +142,7 @@
             this.MinimizeBox = false;
             this.Name = "FormChatbot";
             this.ShowIcon = false;
-            this.Text = "ChatBot";
+            this.Text = "ChatBot (OscarDev)";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
