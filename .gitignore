@@ -1,0 +1,78 @@
+# ================================
+# Visual Studio / .NET Framework
+# ================================
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet (packages.config)
+packages/
+*.nupkg
+*.snupkg
+
+# Rider / Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Publish
+*.Publish.xml
+*.pubxml
+publish/
+
+# App settings generated
+app.config.user
+
+# ================================
+# Optional (recommended)
+# ================================
+
+# SQLite / local DB
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Certificates
+*.pfx
+*.cer
+
+# Coverage
+*.coverage
+*.coveragexml
+
+# Backup files
+*.orig
+*.old
+
+!OUTPUT/**
+
